@@ -1,0 +1,7 @@
+[第二題]
+（1）安裝 Ubuntu 16.04 LTS Server Edition 
+（2）安裝 Samba Server
+
+參考網址：
+（1）https://www.techonthenet.com/linux/sysadmin/ubuntu/install_16_04.php
+（2）https://tutorials.ubuntu.com/tutorial/install-and-configure-samba#0
